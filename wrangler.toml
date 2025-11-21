@@ -4,8 +4,8 @@ compatibility_date = "2025-11-17"
 keep_vars = true
 
 [[kv_namespaces]]
-binding = "KV_BINDING" 
-id = "28a8568b577940e0841631e5a9603207" # 替换成你实际的 KV ID
+binding = "DOMAIN_KV" 
+id = "fb2111240d944de5ba087942c37132fe" # 替换成你实际的 KV ID
 
 [triggers]
 crons = ["0 1,13 * * *"] # 北京时间 9:00 和 21:00
